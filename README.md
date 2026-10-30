@@ -1,8 +1,12 @@
-# Hi, I'm Shasidhar R.
+ <div align="center">
 
-### Full-Stack Developer | AI & DS Enthusiast | Problem Solver
+# <span style="color:#58A6FF;">SHASIDHAR R.</span>
 
-I enjoy developing web applications, exploring artificial intelligence, and working with data-driven technologies. I like turning ideas into practical solutions while continuously improving my development and problem-solving skills.
+### Full-Stack Developer · AI & Data Science Enthusiast · Problem Solver
+
+*Building practical applications with web technologies, data, and intelligent systems.*
+
+</div>
 
 ---
 
@@ -12,6 +16,8 @@ I enjoy developing web applications, exploring artificial intelligence, and work
 - Exploring Machine Learning and Data Science.
 - Enjoy building projects and experimenting with new technologies.
 - Focused on problem-solving, clean code, and continuous learning.
+
+---
 
 ## Technical Skills
 
@@ -53,18 +59,34 @@ I enjoy developing web applications, exploring artificial intelligence, and work
 
 ---
 
-## Featured Projects
+## Featured Project
 
-A selection of projects showcasing my development skills and technical interests.
+### 01 · InkPrint — Writing Intelligence
 
-<!-- Replace these placeholders with your actual repository links -->
+**A full-stack writing analytics platform powered by behavioral analysis and machine learning.**
 
-- **Project 01** ### 🖋️ InkPrint — Writing Intelligence
+InkPrint captures writing-process behavior and transforms it into measurable insights. It analyzes typing activity, pauses, revisions, deletions, and pasted content to extract behavioral features and generate explainable writing insights with personalized improvement recommendations.
 
-A full-stack writing analytics platform that captures writing-process behavior and transforms it into measurable insights. Built with **React, TypeScript, FastAPI, Python, SQLite, and Scikit-learn**, InkPrint tracks typing activity, pauses, revisions, deletions, and pasted content to extract behavioral features, generate explainable writing insights, and provide personalized improvement recommendations. Also includes an **Isolation Forest ML pipeline** for anomaly-oriented analysis of completed writing sessions.
+It also includes an **Isolation Forest machine learning pipeline** for anomaly-oriented analysis of completed writing sessions.
 
-**Tech Stack:** React • TypeScript • Python • FastAPI • SQLite • Scikit-learn
-- 
+**Key Features**
+
+- **Writing Behavior Tracking** — Captures typing activity, pauses, revisions, deletions, and pasted content.
+- **Behavioral Feature Extraction** — Converts writing activity into measurable behavioral features.
+- **Explainable Insights** — Generates understandable insights from writing patterns.
+- **Personalized Recommendations** — Provides suggestions to help improve writing habits.
+- **Anomaly Analysis** — Uses Isolation Forest to identify unusual patterns in completed writing sessions.
+
+**Technology Stack**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,python,fastapi,sqlite,sklearn" />
+</p>
+
+`React` · `TypeScript` · `Python` · `FastAPI` · `SQLite` · `Scikit-learn`
+
+<!-- Add your repository link when available -->
+**Repository:** [View Project](#)
 
 ---
 
@@ -79,12 +101,14 @@ A full-stack writing analytics platform that captures writing-process behavior a
 
 ## Connect With Me
 
-- GitHub: [Shasidhar-555](https://github.com/Shasidhar-555)
-- LinkedIn: Add your LinkedIn profile.
-- Email: Add your professional email.
+- **GitHub:** [Shasidhar-555](https://github.com/Shasidhar-555)
+- **LinkedIn:** Add your LinkedIn profile.
+- **Email:** Add your professional email.
 
 ---
 
-<p align="center">
-  <i>Always learning, always building.</i>
-</p>
+<div align="center">
+
+*Always learning. Always building.*
+
+</div>
