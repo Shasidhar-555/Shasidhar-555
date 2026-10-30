@@ -91,15 +91,27 @@ It also includes an **Isolation Forest machine learning pipeline** for anomaly-o
 ---
 
 ## GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shasidhar-555&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shasidhar-555&layout=compact&hide_border=true&theme=transparent" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Shasidhar-555&show_icons=true&hide_border=true&theme=github_dark"
+    alt="GitHub Stats"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shasidhar-555&layout=compact&hide_border=true&theme=github_dark"
+    alt="Top Languages"
+    height="165"
+  />
 </p>
 
----
-
-## Connect With Me
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Shasidhar-555&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>## Connect With Me
 
 - **GitHub:** [Shasidhar-555](https://github.com/Shasidhar-555)
 - **LinkedIn:** Add your LinkedIn profile.
