@@ -91,9 +91,43 @@ It also includes an **Isolation Forest machine learning pipeline** for anomaly-o
 ---
 
 ## GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shasidhar-555&theme=github_dark" alt="GitHub Profile Summary" width="100%" />
+  <a href="https://github.com/YOUR_USERNAME">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"
+      height="180"
+      alt="GitHub Statistics"
+    />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+      height="180"
+      alt="Top Languages"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"
+    width="70%"
+    alt="GitHub Streak Statistics"
+  />
+</p>
+
+## Contribution Activity
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"
+      width="95%"
+      alt="GitHub Contribution Activity Graph"
+    />
+  </a>
 </p>
 </p>## Connect With Me
 
