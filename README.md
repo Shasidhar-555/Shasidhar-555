@@ -1,6 +1,6 @@
  <div align="center">
 
-# <span style="color:#58A6FF;">SHASIDHAR R.</span>
+# <span style="color:#58A6FF;">SHASIDHAR R</span>
 
 ### Full-Stack Developer · AI & Data Science Enthusiast · Problem Solver
 
