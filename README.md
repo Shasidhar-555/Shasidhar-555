@@ -86,7 +86,7 @@ It also includes an **Isolation Forest machine learning pipeline** for anomaly-o
 `React` · `TypeScript` · `Python` · `FastAPI` · `SQLite` · `Scikit-learn`
 
 <!-- Add your repository link when available -->
-**Repository:** [View Project](#)
+**Repository:** [[View Project]](https://github.com/Shasidhar-555/INKPRINT)(#)
 
 ---
 
